@@ -1,2 +1,0 @@
-# Troymex-In
-puzzle game
